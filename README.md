@@ -1,4 +1,4 @@
-# Windows DLL Injector
+# Windows C
 
 Written by Brandon Arvanaghi ([@arvanaghi](https://twitter.com/arvanaghi))
 
